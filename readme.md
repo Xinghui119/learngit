@@ -6,6 +6,7 @@ git is free software
 #### 第一  git version control
 + local
 + global
++ learning how to control the brance
 
 > How to inset code
 >
